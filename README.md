@@ -1,9 +1,9 @@
 # Operating System term project - Zerocopy
-การรับส่งไฟล์แบบ Server-Client มีการเปรียบเทียบเวลาการส่งแบบ Normalcopy กับ Zerocopy และสามารถส่งไฟล์ข้ามระบบปฏิบัติการระหว่าง Window-Linux <br>
+Developed and compared file transfer times between copy and zerocopy. And can enable file transfer across operating system (Windows-Linux) using a virtual machine <br>
 Technologies used: Java language, Visual studio code, Oracle virtual box
 
 ## Built by
-นักศึกษาชั้นปีที่ 3 ภาคการศึกษาที่ 1/2567
+3rd-year computer science student, semester 1/2024
 1. นางสาวสุขุมาภรณ์ เหมือนวงศ์ธรรม
 2. นางสาวทยิดา มูลดำ
 3. นายธนภัทร รุจิชานันทกุล
