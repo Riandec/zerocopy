@@ -1,5 +1,4 @@
-# Zerocopy - Term Project
-ส่วนหนึ่งของรายวิชา Operating System <br>
+# Operating System term project - Zerocopy
 การรับส่งไฟล์แบบ Server-Client และเปรียบเทียบเวลาการส่งแบบ Normalcopy กับ Zerocopy
 
 ## Built by
