@@ -1,5 +1,5 @@
 # Operating System term project - Zerocopy
-การรับส่งไฟล์แบบ Server-Client มีการเปรียบเทียบเวลาการส่งแบบ Normalcopy กับ Zerocopy และสามารถส่งไฟล์ข้ามระบบปฏิบัติการระหว่าง Window-Linux
+การรับส่งไฟล์แบบ Server-Client มีการเปรียบเทียบเวลาการส่งแบบ Normalcopy กับ Zerocopy และสามารถส่งไฟล์ข้ามระบบปฏิบัติการระหว่าง Window-Linux <br>
 Technologies used: Java language, Visual studio code, Oracle virtual box
 
 ## Built by
